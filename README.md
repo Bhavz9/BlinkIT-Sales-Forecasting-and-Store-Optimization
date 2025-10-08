@@ -192,18 +192,20 @@ model.fit(X_train, y_train)
 
 ---
 ## 📈 Visualizations
+- Interactive dashboard showing KPIs, trends, and category performance
+  
 ![Dashboard Overview](images/Dashboard_overview.png) 
-Interactive dashboard showing KPIs, trends, and category performance
+- Top 10 features driving BlinkIT sales
+  
 ![Feature Importance](images/top_drivers_plot.png)
-Top 10 features driving BlinkIT sales
+- Scatter plot demonstrating model accuracy (R² = 0.6074)
+  
 ![Model Performance](images/actual_vs_predicted.png)
-Scatter plot demonstrating model accuracy (R² = 0.6074)
+- Log-normalized sales comparison between Regular and Low Fat items
+  
 ![Sales Distribution](images/Log_Sales.png)
-Log-normalized sales comparison between Regular and Low Fat items
-
 
 ---
-🧪 Model Performance Details
 ## 🧪 Model Performance Details
 
 ### Metrics
