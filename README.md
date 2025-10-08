@@ -191,7 +191,21 @@ model.fit(X_train, y_train)
 - 🔝 **Premium Focus**: Emphasize high-importance categories (Seafood, Breads, Household)
 
 ---
-
+## 📈 Visualizations
+Power BI Dashboard
+Show Image
+Interactive dashboard showing KPIs, trends, and category performance
+Model Performance
+Show Image
+Scatter plot demonstrating model accuracy (R² = 0.6074)
+Feature Importance
+Show Image
+Top 10 features driving BlinkIT sales
+Sales Distribution
+Show Image
+Log-normalized sales comparison between Regular and Low Fat items
+---
+🧪 Model Performance Details
 ## 🧪 Model Performance Details
 
 ### Metrics
