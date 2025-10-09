@@ -194,16 +194,16 @@ model.fit(X_train, y_train)
 ## 📈 Visualizations
 - Interactive dashboard showing KPIs, trends, and category performance
   
-![Dashboard Overview](images/Dashboard_overview.png) 
+![Dashboard Overview](visualizations/Dashboard_overview.png) 
 - Top 10 features driving BlinkIT sales
   
-![Feature Importance](images/top_drivers_plot.png)
+![Feature Importance](visualizations/top_drivers_plot.png)
 - Scatter plot demonstrating model accuracy (R² = 0.6074)
   
-![Model Performance](images/actual_vs_predicted.png)
+![Model Performance](visualizations/actual_vs_predicted.png)
 - Log-normalized sales comparison between Regular and Low Fat items
   
-![Sales Distribution](images/Log_Sales.png)
+![Sales Distribution](visualizations/Log_Sales.png)
 
 ---
 ## 🧪 Model Performance Details
@@ -243,7 +243,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
+**Bhavya Mathur**
 - GitHub: (https://github.com/Bhavz9)
 - LinkedIn: (https://www.linkedin.com/in/bhavya-mathur1)
 
