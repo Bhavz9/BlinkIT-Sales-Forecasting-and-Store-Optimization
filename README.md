@@ -194,7 +194,7 @@ model.fit(X_train, y_train)
 ## 📈 Visualizations
 - Interactive dashboard showing KPIs, trends, and category performance
   
-![Dashboard Overview](visualizations/Dashboard_overview.png) 
+![Dashboard Overview](visualizations/dashboard_overview.png) 
 - Top 10 features driving BlinkIT sales
   
 ![Feature Importance](visualizations/top_drivers_plot.png)
