@@ -194,7 +194,7 @@ model.fit(X_train, y_train)
 ## 📈 Visualizations
 - Interactive dashboard showing KPIs, trends, and category performance
   
-![Dashboard Overview](visualizations/dashboard_overview.png) 
+![Dashboard Overview](visualizations/Dashboard_overview.png) 
 - Top 10 features driving BlinkIT sales
   
 ![Feature Importance](visualizations/top_drivers_plot.png)
@@ -203,7 +203,7 @@ model.fit(X_train, y_train)
 ![Model Performance](visualizations/actual_vs_predicted.png)
 - Log-normalized sales comparison between Regular and Low Fat items
   
-![Sales Distribution](visualizations/log_Sales.png)
+![Sales Distribution](visualizations/Log_Sales.png)
 
 ---
 ## 🧪 Model Performance Details
