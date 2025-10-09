@@ -203,7 +203,7 @@ model.fit(X_train, y_train)
 ![Model Performance](visualizations/actual_vs_predicted.png)
 - Log-normalized sales comparison between Regular and Low Fat items
   
-![Sales Distribution](visualizations/Log_Sales.png)
+![Sales Distribution](visualizations/log_Sales.png)
 
 ---
 ## 🧪 Model Performance Details
